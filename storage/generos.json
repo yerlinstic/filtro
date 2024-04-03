@@ -1,0 +1,14 @@
+{
+     "G01":{
+         "id" : "G01",
+         "nombre" : "accion"
+     }
+    ,
+    "G01":{
+        "id" : "G01",
+        "nombre" : "terror"
+    }
+}
+
+
+

@@ -1,0 +1,47 @@
+[
+    {
+        "codigo": "001",
+        "nombre": " Hacia la libertad, 2021",
+        "genero": "Acci\u00f3n",
+        "duracion": 120,
+        "actores": [
+            
+            
+            {  
+                "codigo": "001",
+                "nombre": " El espíritu de la Navidad, 2022 1",
+                "genero": "Acci\u00f3n",
+                "duracion": 120,
+                "actores": [   
+                
+    
+                {
+                        "id": 1,
+                        "nombre": "Will Smith  1",
+                        "rol": "Protagonista"
+                    },
+                    {
+                        "id": 2,
+                        "nombre": "AcWill Ferrell. Spirited 2",
+                        "rol": "Secundario"
+                        }
+                    ]
+                } 
+            ]  
+        }
+    
+
+]
+
+             
+
+                 
+            
+            
+              
+                
+                
+                          
+            
+            
+            
